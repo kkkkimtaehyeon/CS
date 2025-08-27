@@ -1,15 +1,15 @@
 ## 🖥 운영체제 (OS)
 
-1. 프로세스와 스레드의 차이는 무엇인가요?
-2. 멀티스레딩의 장단점은 무엇인가요?
-3. 컨텍스트 스위칭(Context Switching)이 무엇인가요?
-4. PCB(Process Control Block)는 무엇이고 어떤 정보를 담고 있나요?
-5. CPU 스케줄링 알고리즘에는 어떤 것들이 있나요? (예: FCFS, SJF, RR 등)
-6. 데드락(Deadlock)이 발생하는 조건 4가지는 무엇인가요?
-7. 데드락을 방지하는 방법은 무엇이 있나요?
-8. 뮤텍스(Mutex)와 세마포어(Semaphore)의 차이는 무엇인가요?
-9. 페이지 교체 알고리즘에는 어떤 것들이 있나요? (LRU, FIFO 등)
-10. 가상 메모리(Virtual Memory)는 무엇이고 왜 필요한가요?
+1. [프로세스와 스레드의 차이는 무엇인가요?](https://velog.io/@kkkkimtaehyeon/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)
+3. 멀티스레딩의 장단점은 무엇인가요?
+4. 컨텍스트 스위칭(Context Switching)이 무엇인가요?
+5. PCB(Process Control Block)는 무엇이고 어떤 정보를 담고 있나요?
+6. CPU 스케줄링 알고리즘에는 어떤 것들이 있나요? (예: FCFS, SJF, RR 등)
+7. 데드락(Deadlock)이 발생하는 조건 4가지는 무엇인가요?
+8. 데드락을 방지하는 방법은 무엇이 있나요?
+9. 뮤텍스(Mutex)와 세마포어(Semaphore)의 차이는 무엇인가요?
+10. 페이지 교체 알고리즘에는 어떤 것들이 있나요? (LRU, FIFO 등)
+11. 가상 메모리(Virtual Memory)는 무엇이고 왜 필요한가요?
 
 ---
 
