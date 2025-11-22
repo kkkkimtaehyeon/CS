@@ -7,7 +7,7 @@
 5. CPU 스케줄링 알고리즘에는 어떤 것들이 있나요? (예: FCFS, SJF, RR 등)
 6. 데드락(Deadlock)이 발생하는 조건 4가지는 무엇인가요?
 7. 데드락을 방지하는 방법은 무엇이 있나요?
-8. 뮤텍스(Mutex)와 세마포어(Semaphore)의 차이는 무엇인가요?
+8. [뮤텍스(Mutex)와 세마포어(Semaphore)의 차이는 무엇인가요?](https://velog.io/@kkkkimtaehyeon/%EB%AE%A4%ED%85%8D%EC%8A%A4%EC%99%80-%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4)
 9. 페이지 교체 알고리즘에는 어떤 것들이 있나요? (LRU, FIFO 등)
 10. 가상 메모리(Virtual Memory)는 무엇이고 왜 필요한가요?
 
