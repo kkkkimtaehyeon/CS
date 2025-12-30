@@ -69,3 +69,30 @@
 8. 캐시(Cache)를 사용하는 이유와 캐시 전략(LRU, LFU 등)을 설명해주세요.
 9. 대규모 트래픽을 처리하기 위한 방법에는 어떤 것들이 있나요? (예: Scale-out, 캐싱, CQRS 등)
 10. 서버 장애 상황에서 장애를 복구하고 재발을 방지하기 위해 어떤 절차를 거쳐야 하나요?
+
+## Spring 면접 빈출 질문 10개
+
+1. IoC와 DI란 무엇인가요?
+2. Spring Bean이란 무엇이며 생명주기는 어떻게 되나요?
+3. @Component, @Service, @Repository의 차이는 무엇인가요?
+4. Spring의 Singleton Scope는 thread-safe한가요?
+5. @Transactional은 어떻게 동작하나요?
+6. 트랜잭션 전파 속성(Transaction Propagation)이란 무엇인가요?
+7. Filter와 Interceptor의 차이는 무엇인가요?
+8. RestTemplate과 WebClient의 차이는 무엇인가요?
+9. JPA에서 N+1 문제가 무엇이며 어떻게 해결하나요?
+10. Spring에서 전역 예외 처리는 어떻게 하나요?
+    
+
+## Java 면접 빈출 질문 10개
+
+1. JVM의 구조를 설명해보세요.
+2. ==와 equals()의 차이는 무엇인가요?
+3. hashCode()는 왜 equals()와 함께 재정의해야 하나요?
+4. String, StringBuilder, StringBuffer의 차이는 무엇인가요?
+5. Java에서 final 키워드의 의미는 무엇인가요?
+6. Checked Exception과 Unchecked Exception의 차이는 무엇인가요?
+7. Java의 Garbage Collection이란 무엇인가요?
+8. JVM 메모리에서 Stack과 Heap의 차이는 무엇인가요?
+9. Java에서 동시성 문제는 언제 발생하나요?
+10. Mutable 객체와 Immutable 객체의 차이는 무엇인가요?
