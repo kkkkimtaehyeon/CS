@@ -14,11 +14,10 @@
 ---
 
 ## 🌐 네트워크
-
 1. OSI 7계층과 TCP/IP 4계층을 설명해주세요.
 2. TCP와 UDP의 차이점은 무엇인가요?
 3. TCP의 3-way handshake와 4-way handshake 과정을 설명해주세요.
-4. HTTP와 HTTPS의 차이점은 무엇인가요?
+4. (HTTP와 HTTPS의 차이점은 무엇인가요?) [https://velog.io/@kkkkimtaehyeon/HTTP%EC%99%80-HTTPS%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90]
 5. HTTP 1.1, 2.0, 3.0의 차이를 설명해주세요.
 6. DNS가 어떻게 동작하는지 설명해주세요.
 7. 로드 밸런서(Load Balancer)의 역할은 무엇인가요?
