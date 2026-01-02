@@ -73,7 +73,7 @@
 ## Spring 면접 빈출 질문 10개
 
 1. IoC와 DI란 무엇인가요?
-2. Spring Bean이란 무엇이며 생명주기는 어떻게 되나요?
+2. [Spring Bean이란 무엇이며 생명주기는 어떻게 되나요?](https://velog.io/@kkkkimtaehyeon/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88)
 3. @Component, @Service, @Repository의 차이는 무엇인가요?
 4. Spring의 Singleton Scope는 thread-safe한가요?
 5. @Transactional은 어떻게 동작하나요?
